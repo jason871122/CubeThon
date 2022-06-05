@@ -1,3 +1,3 @@
 # CubeThon
  
-my first Unity Program
+My first unity program
